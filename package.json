@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cjdiaz18/bedu_ecma6_test#readme",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "webpack": "^4.30.0"
   }
 }
