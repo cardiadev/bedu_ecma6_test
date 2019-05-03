@@ -1,0 +1,22 @@
+{
+  "name": "bedu_ecma6_test",
+  "version": "1.0.0",
+  "description": "This is a test proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjdiaz18/bedu_ecma6_test.git"
+  },
+  "author": "Carlos J. Diaz Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjdiaz18/bedu_ecma6_test/issues"
+  },
+  "homepage": "https://github.com/cjdiaz18/bedu_ecma6_test#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
